@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2674de0c.css",
+    "main.js": "/static/js/main.98e57305.js",
+    "static/js/453.b4f4dadb.chunk.js": "/static/js/453.b4f4dadb.chunk.js",
+    "static/media/rocket.svg": "/static/media/rocket.44255067c3ef69833a10b828f53b4269.svg",
+    "static/media/wideMilkyWay.png": "/static/media/wideMilkyWay.bc06d52398da018e7828.png",
+    "static/media/colorfulGalaxy.png": "/static/media/colorfulGalaxy.70750b71a64faa8522e1.png",
+    "static/media/earth.png": "/static/media/earth.1d0e5c81fc7c52e13cc2.png",
+    "static/media/blueYellowNebula.svg": "/static/media/blueYellowNebula.95331ddbf441ff7ccdfb.svg",
+    "static/media/pinkNebula.svg": "/static/media/pinkNebula.f646a7b54924d8d35fc2.svg",
+    "static/media/orionNebula.svg": "/static/media/orionNebula.7811fd44c1f42d6a2417.svg",
+    "static/media/logo.svg": "/static/media/logo.f4153131d3955bdfa609912a9f3b5caf.svg",
+    "static/media/white_cart.svg": "/static/media/white_cart.974fa74b8c7d882c0524.svg",
+    "index.html": "/index.html",
+    "main.2674de0c.css.map": "/static/css/main.2674de0c.css.map",
+    "main.98e57305.js.map": "/static/js/main.98e57305.js.map",
+    "453.b4f4dadb.chunk.js.map": "/static/js/453.b4f4dadb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2674de0c.css",
+    "static/js/main.98e57305.js"
+  ]
+}
